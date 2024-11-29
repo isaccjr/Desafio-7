@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 1. Clone este repositório:
 
-git clone https://github.com/isaccjr/LLM--Clustering.git
+git clone https://github.com/isaccjr/LLM-Clustering.git
 
 
 2. Navegue até o diretório do projeto:
